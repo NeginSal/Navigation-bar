@@ -1,2 +1,2 @@
-# Navigation-bar.github.io
+# Navigation-bar
 Simple navigation bar with bootstrap4
